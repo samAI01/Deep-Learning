@@ -1,0 +1,6 @@
+streamlit>=1.36
+tensorflow>=2.16,<2.20
+numpy
+pandas
+scikit-learn
+ucimlrepo
