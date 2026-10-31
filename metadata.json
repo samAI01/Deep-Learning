@@ -1,0 +1,17 @@
+{
+  "model_type": "character-level CNN",
+  "dataset": "UCI PhiUSIIL Phishing URL Dataset (id=967)",
+  "label_mapping": {
+    "0": "legitimate model class",
+    "1": "phishing model class"
+  },
+  "source_label_mapping": {
+    "0": "phishing",
+    "1": "legitimate"
+  },
+  "threshold": 0.5,
+  "max_tokens": 160,
+  "max_length": 200,
+  "seed": 42,
+  "warning": "Random split metrics are not proof of real-world or cross-source generalization."
+}
