@@ -1,0 +1,5 @@
+streamlit
+tensorflow==2.19.1
+numpy<2.2
+pandas
+scikit-learn
